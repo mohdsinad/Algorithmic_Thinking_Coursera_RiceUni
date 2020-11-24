@@ -109,8 +109,8 @@
   Which of the following statements is true concerning the running times for Algorithm CC-Distance and Algorithm CC-Visited?
 
 ### Answer:
-    The running time of CC-Distance is asymptotically slower than that of CC-Visited due to the initialization of d in lines 2-3 of BFS 
-    Distance.
+    The running time of CC-Distance is asymptotically slower than that of CC-Visited due to the initialization of d in lines 2-3 of 
+    BFS Distance.
 
 ----
 # Question 16
