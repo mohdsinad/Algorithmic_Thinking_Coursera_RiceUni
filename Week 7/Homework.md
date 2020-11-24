@@ -35,7 +35,7 @@
 
   What is the score of the following alignment:
   
-  X'=AC--CT
+  X'=AC--CT             
   Y'=TACGGT
 
 ### Answer:
