@@ -21,6 +21,7 @@
 ----
 # Question 4
   Which of the following choices is the tightest upper bound for the function f(n) = n(n+1)/2 ?
+
 ### Answer:
     f(n) is O(n^2)
 
